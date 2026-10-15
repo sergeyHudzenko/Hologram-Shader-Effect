@@ -1,6 +1,5 @@
+<img width="400" height="266" alt="holohram" src="https://github.com/user-attachments/assets/1aaeadf9-4a09-4c34-8b98-ae1ec3129077" />
 DEMO: https://sergeyhudzenko.github.io/Hologram-Shader-Effect/
-
-https://github.com/user-attachments/assets/5f1859a9-ba41-49ef-94cc-338d0ffa8658
 
 
 
